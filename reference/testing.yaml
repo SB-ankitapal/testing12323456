@@ -26,6 +26,10 @@ paths:
               schema:
                 type: object
                 properties:
+                  hvjhj:
+                    $ref: 'https://x-20594.stoplight-dev.com/api/v1/projects/lstestnoniatapr/noniatadl/nodes/models/Modelt43434.json?deref=bundle'
+                    x-stoplight:
+                      id: 4l09ddnu2q3hh
                   testing:
                     $ref: 'https://x-20594.stoplight-dev.com/api/v1/projects/lstestnoniatapr/noniatadl/nodes/models/model1trst.json?mid=158'
                     x-stoplight:
