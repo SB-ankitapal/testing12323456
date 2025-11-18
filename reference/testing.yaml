@@ -25,6 +25,8 @@ paths:
             application/json:
               schema:
                 type: object
+                required:
+                  - testing
                 properties:
                   hvjhj:
                     $ref: 'https://x-20594.stoplight-dev.com/api/v1/projects/lstestnoniatapr/noniatadl/nodes/models/Modelt43434.json?deref=bundle'
