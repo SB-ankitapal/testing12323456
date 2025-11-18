@@ -36,6 +36,7 @@ paths:
                     $ref: 'https://x-20594.stoplight-dev.com/api/v1/projects/lstestnoniatapr/noniatadl/nodes/models/model1trst.json?mid=158'
                     x-stoplight:
                       id: idrhjeah1kogj
+                    description: testing p write....
         '404':
           description: User Not Found
       operationId: get-users-userId
